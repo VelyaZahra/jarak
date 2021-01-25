@@ -1,0 +1,12 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\Jarak\bin\Debug\Jarak.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\Jarak\bin\Debug\Jarak.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\Jarak\bin\Debug\Jarak.xml
+C:\Users\Asus\AppData\Local\Temporary Projects\Jarak\obj\x86\Debug\Jarak.Form1.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\Jarak\obj\x86\Debug\Jarak.Resources.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\Jarak\obj\x86\Debug\Jarak.vbproj.GenerateResource.Cache
+C:\Users\Asus\AppData\Local\Temporary Projects\Jarak\obj\x86\Debug\Jarak.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\Jarak\obj\x86\Debug\Jarak.xml
+C:\Users\Asus\AppData\Local\Temporary Projects\Jarak\obj\x86\Debug\Jarak.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\Jarak\Jarak\obj\x86\Debug\Jarak.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\Jarak\Jarak\obj\x86\Debug\Jarak.xml
+C:\Users\Asus\documents\visual studio 2010\Projects\Jarak\Jarak\obj\x86\Debug\Jarak.pdb
